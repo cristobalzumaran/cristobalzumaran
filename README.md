@@ -54,7 +54,7 @@ Apasionado por transformar datos en decisiones estratégicas mediante análisis,
 - Técnico en Geominería – CEDUC (2015)  
 - Técnico en Administración de Redes y Soporte Computacional – CEDUC UCN (2012)  
 
---- ## 🎓 Certificaciones
+--- ## 🎓 Formación Académica
 
 ** CERTIFICACIONES Y FORMACIÓN COMPLEMENTARIA** 
 
@@ -78,4 +78,4 @@ Apasionado por transformar datos en decisiones estratégicas mediante análisis,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristobal-figueroa-zumaran-7a31b71b8)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cristobalzumaran)  
 
-✉️ cristobalzumaran@gmail.com
+
